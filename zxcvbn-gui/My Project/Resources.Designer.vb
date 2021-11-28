@@ -61,7 +61,7 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Sucht eine lokalisierte Zeichenfolge, die Copyright (c) 2012 Dropbox, Inc.
+        '''  Sucht eine lokalisierte Zeichenfolge, die Copyright (c) 2012-2016 Dan Wheeler and Dropbox, Inc.
         '''
         '''Permission is hereby granted, free of charge, to any person obtaining
         '''a copy of this software and associated documentation files (the
@@ -71,7 +71,7 @@ Namespace My.Resources
         '''permit persons to whom the Software is furnished to do so, subject to
         '''the following conditions:
         '''
-        '''The above copyright notice and thi [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+        '''The above cop [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
         '''</summary>
         Friend ReadOnly Property DropboxLicense() As String
             Get

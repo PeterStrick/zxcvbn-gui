@@ -1,5 +1,5 @@
 ﻿#Region "License"
-'Copyright(c) 2012 Dropbox, Inc.
+'Copyright(c) 2012-2016 Dan Wheeler And Dropbox, Inc.
 
 'Permission Is hereby granted, free Of charge, to any person obtaining
 'a copy Of this software And associated documentation files (the
