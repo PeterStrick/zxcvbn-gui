@@ -60,6 +60,7 @@ Partial Class GUI
         Me.l_Entropy.Size = New System.Drawing.Size(61, 17)
         Me.l_Entropy.TabIndex = 1
         Me.l_Entropy.Text = "Entropy:"
+        Me.tt_Main.SetToolTip(Me.l_Entropy, "Bits of entropy for the Password.")
         '
         'l_CrackTime
         '
