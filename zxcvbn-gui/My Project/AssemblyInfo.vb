@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Werte der Assemblyattribute überprüfen
 
-<Assembly: AssemblyTitle("zxcvbn-gui")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("zxcvbn GUI")>
+<Assembly: AssemblyDescription("A GUI for zxcvbn")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("zxcvbn-gui")>
-<Assembly: AssemblyCopyright("Copyright ©  2021")>
+<Assembly: AssemblyProduct("zxcvbn GUI")>
+<Assembly: AssemblyCopyright("Copyright © Peters Software Solutions 2021")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' übernehmen, indem Sie "*" eingeben:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.1.0.0")>
+<Assembly: AssemblyFileVersion("1.1.0.0")>
