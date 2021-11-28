@@ -15,7 +15,7 @@ A GUI for [zxcvbn-cs](https://github.com/bitbeans/zxcvbn-cs), which is based on 
 > 
 > For full motivation, see:
 >
-> http://tech.dropbox.com/?p=165
+> https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation
 
 ### More Information
 
