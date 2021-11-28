@@ -23,7 +23,7 @@ For more information on why password entropy is calculated as it is, refer to `Z
 
 https://github.com/dropbox/zxcvbn
 
-~~http://tech.dropbox.com/?p=165~~ https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation
+https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation
 
 
 ### Licence
