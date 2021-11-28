@@ -28,4 +28,4 @@ http://tech.dropbox.com/?p=165
 
 ### Licence
 
-Since `Zxcvbn-gui` is based on `Zxcvbn-cs`, which in self is a port of the original `Zxcvbn` the original copyright and licensing applies. Cf. the LICENSE file.
+Since `Zxcvbn-gui` is based on [zxcvbn-cs](https://github.com/bitbeans/zxcvbn-cs), which in self is a port of the original [zxcvbn](https://github.com/dropbox/zxcvbn) the original copyright and licensing applies. Cf. the LICENSE file.
